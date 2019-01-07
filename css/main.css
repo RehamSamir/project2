@@ -1,0 +1,96 @@
+
+.nav-item
+{
+    font-size: 14px;
+    font-weight: 500;
+}
+.nav-item a
+{
+    color: #FFF !important;
+}
+.bg-light
+{
+    background-color: transparent !important;
+    border-bottom-color: rgba(255,255,255,0.1)
+}
+.mr-6
+{
+    margin-right: 70px;
+}
+.cap h3:last-of-type
+{
+  padding-bottom: 30%;
+}
+.cap h3
+{
+    font-size: 400%;
+    
+}
+.custom
+{
+    z-index: 999;
+}
+.about
+{
+    padding: 0 20%;
+}
+.about h2
+{
+    font-size: 38px;
+    font-weight: 700;
+}
+.about p
+{
+    font-size: 18px;
+    color: #999;
+    margin-bottom: 70px;
+}
+.col-lg-6 p
+{
+    float: left;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 16px;
+    color: #666;
+}
+.pro>div
+{
+    margin-top: 5%;
+    height: 0.2rem;
+}
+.pro div div
+{
+    background-color: #f25454;
+}
+.one
+{
+    margin-left: 63%;
+}
+.two
+{
+    margin-left: 90%;
+}
+.three
+{
+    margin-left: 60%;
+}
+.four
+{
+    margin-left: 50%;
+}
+.card h5
+{
+    font-size: 16px;
+    font-weight: 600;
+    color: #282828;  
+}
+.card p
+{
+    color: #666;
+    font-size: 14px;
+}
+.card .card-img-top
+{
+    border-radius: 3px;
+    margin: 0 auto;
+}
